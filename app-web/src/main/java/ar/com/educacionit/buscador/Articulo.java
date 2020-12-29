@@ -4,6 +4,7 @@ public class Articulo {
 
 		
 		public Articulo(long id, String titulo, String autor, Float precio) {
+			super();
 			this.id = id;
 			this.titulo = titulo;
 			this.autor = autor;
