@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3> 🛠 &nbsp;Habilidades técnicas</h3>
 
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=Siniestros-Viales&theme=nightowl)](https://github.com/Ivan2125/Data-Analytics-Siniestros-Viales)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=MLOps-Steam&theme=nightowl)](https://github.com/Ivan2125/MLOps-Steam)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=MLOps-Steam&theme=nightowl)](https://github.com/Ivan2125/MLOps-Steam)|
 <!--
 **marceloyuba/marceloyuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
