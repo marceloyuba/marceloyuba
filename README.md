@@ -15,7 +15,7 @@
 
 ## Mi Stack tecnologico
 
-<div align="center">
+<div>
 
 ![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
