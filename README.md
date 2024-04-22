@@ -7,6 +7,8 @@
 ![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
 </div>
 
+![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
+
 <h1> Hola, Soy Marcelo Yuba 👋 </h1>
 
 # Un Data Analyst  y Data Scientist de Buenos Aires, Argentina
