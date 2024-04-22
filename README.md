@@ -21,17 +21,22 @@
 <div>
 
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
+![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas)
+![Static Badge](https://img.shields.io/badge/-Matplotlib-gray?style=flat&logo=Matplotlib)
+![Static Badge](https://img.shields.io/badge/-Seaborn-gray?style=flat&logo=Seaborn)
+![Static Badge](https://img.shields.io/badge/-MySql-gray?style=flat&logo=MySql)
+![Static Badge](https://img.shields.io/badge/-SQL_Server-gray?style=flat&logo=SQL_Server)
 ![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
+![Static Badge](https://img.shields.io/badge/-Adobe_Photoshop-gray?style=flat&logo=Adobe_Photoshop)
 ![Static Badge](https://img.shields.io/badge/Streamlit-gray?style=flat&logo=Streamlit)
 ![Static Badge](https://img.shields.io/badge/FastApi-gray?style=flat&logo=FastApi)
 ![Static Badge](https://img.shields.io/badge/Render-gray?style=flat&logo=Render)
 ![Static Badge](https://img.shields.io/badge/-GoogleBigQuery-gray?style=flat&logo=GoogleBigQuery)
 ![Static Badge](https://img.shields.io/badge/-GoogleCloud-gray?style=flat&logo=GoogleCloud)
-![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas)
-![Static Badge](https://img.shields.io/badge/-Matplotlib-gray?style=flat&logo=Matplotlib)
-![Static Badge](https://img.shields.io/badge/-Seaborn-gray?style=flat&logo=Seaborn)
 ![Static Badge](https://img.shields.io/badge/-Jupyter_Notebook-gray?style=flat&logo=jupyter)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-gray?style=flat&logo=visual%20studio%20code&logoColor=white)
+
+
 </div>
 
 ## Muestra de trabajos
