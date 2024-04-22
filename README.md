@@ -67,4 +67,6 @@
 ![Banner](scr/pi2.png)
 </div>
         
-<h4><a href="https://github.com/marceloyuba/Proyecto_individual_Data_Analyst" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a> Link al repositorio</h4>
+<h4 style="display: flex; align-items: center;">
+<a href="https://github.com/marceloyuba/Proyecto_individual_Data_Analyst" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github"></a>     
+<span style="margin-left: 8px;">Link al repositorio</span></h4>
