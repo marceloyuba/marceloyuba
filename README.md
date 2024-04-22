@@ -2,6 +2,10 @@
 
 ![Banner](scr/banner.png)
 </div>
+<div align="center">
+
+![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
+</div>
 
 <h1> Hola, Soy Marcelo Yuba 👋 </h1>
 
@@ -10,7 +14,8 @@
 <a href="https://www.linkedin.com/in/marcelo-yuba-b9a39827b/" target="_blank">Mi LinkedIn-></a>
 </div>
 
-<div>
+<div align="center">
+
 ![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
 ![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
 ![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas)
